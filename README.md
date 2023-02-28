@@ -1,6 +1,6 @@
 # Blackjack-Game-
 A simple Blackjack game interface. 
-In this Blackjack games covers:
+In this Blackjack game covers:
   arrays
   objects
   booleans
